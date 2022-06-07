@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+*{
+    font-family: 'Anton', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../mbg.jpg);
+    background-repeat: repeat-x;
+    position: relative;
+    
+}
+header{
+   
+
+    width: 100%;
+    height: 200px;
+    position: relative;
+    padding-top: 30px;
+}
+.mainbody
+{
+    width: 960px;
+    height: auto;
+    margin: auto;
+
+}
+
+li.separator{
+    color: rgb(2, 119, 55);
+    padding-left:25px ;
+    }
+/* Navigation bar - starts  */
+nav{
+    width: 100%;
+    height: 50px;}
+    /* if you want it sticky when scrolling */
+    /* position: sticky;
+    /* top: 0; */
+
+.nav-list{
+
+    list-style-type:none;
+    width: 100%;   
+    }
+li {
+    display: inline-block;
+    padding-top: 10px;
+    }
+li a{
+
+    text-decoration:none ;
+    color: rgb(1, 52, 36);
+    padding: 0 20px;
+
+}
+
+a:hover{
+    color: rgb(199, 77, 77);
+    text-decoration: none;
+    transition: 0.5s;
+    color: rgb(0, 255, 119);
+    text-decoration:underline;
+} 
+/* Navigation bar - ends */
+
+/* section */
+section{
+
+    background-image: url(../images/bg_noyhome_02.jpg);
+    width: 660px;
+    height: 700px;
+    float: right;    
+}
+div.intro{
+    width: 400px;
+    height: 700px;
+    
+    background-image: url(../images/bg_noyhome_02.jpg);
+}
+/* .intro p{
+    width: 660px;
+    height: 700px;
+    background-image: transparent;
+} */
+
+aside{
+    background-image: url(../images/bg_noyhome_01-.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 700px;
+}
+footer{
+    clear: both;
+    all: unset;
+    position: absolute;
+    width: 960px;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:large;
+    text-align: center;
+ 
+  
+}
+/* Home css */
