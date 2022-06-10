@@ -63,7 +63,7 @@ a:hover{
 /* section */
 section{
 
-    background-image: url(../images/bg_noyhome_02.jpg);
+    background-image: url(../images/bg_index_02.jpg);
     width: 660px;
     height: 700px;
     float: right;    
@@ -72,7 +72,7 @@ div.intro{
     width: 400px;
     height: 700px;
     
-    background-image: url(../images/bg_noyhome_02.jpg);
+    background-image: url(../images/bg_index_02.jpg);
 }
 /* .intro p{
     width: 660px;
@@ -81,7 +81,7 @@ div.intro{
 } */
 
 aside{
-    background-image: url(../images/bg_noyhome_01.jpg);
+    background-image: url(../images/bg_index_01.jpg);
     background-repeat: no-repeat;
     width: 300px;
     height: 700px;

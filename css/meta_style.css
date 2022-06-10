@@ -63,7 +63,7 @@ a:hover{
 /* section */
 section{
 
-    background-image: url(../images/bg_noyhome_02.jpg);
+    background-image: url(../images/bg_meta_02.jpg);
     width: 660px;
     height: 700px;
     float: right;    
@@ -71,8 +71,9 @@ section{
 div.intro{
     width: 400px;
     height: 700px;
+    padding: 15px;
     
-    background-image: url(../images/bg_noyhome_02.jpg);
+    background-image: url(../images/bg_meta_02.jpg);
 }
 /* .intro p{
     width: 660px;
@@ -81,12 +82,12 @@ div.intro{
 } */
 
 aside{
-    background-image: url(../images/bg_noyhome_01.jpg);
+    background-image: url(../images/bg_meta_01.jpg);
     background-repeat: no-repeat;
     width: 300px;
     height: 700px;
     padding-left: 25px;
-    padding: top 25px; ;
+    padding: 15px; ;
 }
 footer{
     clear: both;
